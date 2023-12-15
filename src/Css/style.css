@@ -1,0 +1,23 @@
+.bg-cream {
+    background-color: #faf6e8;
+  }
+
+i{
+    font-weight:bold;
+    margin-right: 10px;
+    color: rgb(19, 111, 197);
+    font-size: 25px;
+}
+span{
+    font-weight: bold;
+    font-family: 'circe-regular.woff';
+    font-size: 18px;
+}
+.row{
+    margin-bottom: 10px;
+}
+
+.para{
+    font-family: 'circe-regular.woff';
+    font-size: 19px;
+}
